@@ -1,5 +1,5 @@
 # NavBot-Helper-DoDS
-Config file of key binds to help with NavBot with Day of Defeat: Source
+Config file of key binds to help with NavBot with Day of Defeat: Source https://github.com/caxanga334/NavBot
 
 
 # NavBot Helper Keybinds Table
