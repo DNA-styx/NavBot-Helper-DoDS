@@ -17,7 +17,7 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 | F10         | Seed Walkable Spots 				| Seed walkable spots for initial nav mesh generation                                                                             |
 | F11         | Generate Incremental Nav Mesh       | Run after Seed walkable spots and marking walkable areas                                                                       |
 | Insert      | Show Spawn Points                   | Useful for finding spawn points. Doesn't include spawn point teleports used on some maps                                        |
-| Page UP        | Toggle NoClip                       | Toggle noclip mode on/off                                                                                                      |
+| Page Up     | Toggle NoClip                       | Toggle noclip mode on/off                                                                                                      |
 | Page Down        | Toggle Gravity                      | Toggle gravity between low (200) and normal (800)                                                                              |
 | Home        | Toggle Friendly Fire                | Toggle friendly fire on/off                                                                                                    |
 | Delete      | Cycle Bot Quota                     | Cycle bot quota between preset quantities                                                                                      |
