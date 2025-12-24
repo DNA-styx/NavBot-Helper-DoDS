@@ -43,3 +43,6 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 - Add ladders
 - Look for disconnected nav mesh and join them
 - Look for and remove nav mesh from non walkable areas (e.g tops of buildings, places you don't want the bots going)
+
+# Misc usful commands
+- `sm_nav_snap_to_grid 1` 
