@@ -23,3 +23,21 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 | Delete      | Cycle Bot Quota                     | Cycle bot quota between preset quantities                                                                                      |
 | End         | Remove All Bots                     | Kicks all bots and set bot quota to zero. Do this before editing                                                              |
 | Keypad ENTER    | Run Nav Analyze                     | Kicks all bots, set bot quota to zero, saves the nav file and restarts the map                                                 |
+
+
+# New map process
+- Load map
+- Load keybinds .cfg
+- Press "Page Up" to enable god mode
+- Find any walkable bit of ground
+- Press F10 to Seed walkable spots
+- Press F11 to Generate Nav Mesh
+- Press Enter to save nav mesh
+- Fly arround map and look for walkable areas not covered with nav mesh if you find any
+ - Aim at ground and press F9 to mark an area as walkable
+ - Press F11 to generate the nav mesh
+ - Press Enter to save
+ - Repeat process until all walkable areas have nav mesh
+- Press Insert to show spawn points and make sure they have nav mesh
+- Add ladders
+- Look for disconnected nav mesh and join them
