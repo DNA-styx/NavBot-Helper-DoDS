@@ -41,3 +41,4 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 - Press Insert to show spawn points and make sure they have nav mesh
 - Add ladders
 - Look for disconnected nav mesh and join them
+- Look for and remove nav mesh from non walkable areas (e.g tops of buildings, places you don't want the bots going)
