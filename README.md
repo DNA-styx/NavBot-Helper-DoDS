@@ -45,4 +45,6 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 - Look for and remove nav mesh from non walkable areas (e.g tops of buildings, places you don't want the bots going)
 
 # Misc usful commands
-- `sm_nav_snap_to_grid 1` 
+- `sm_nav_snap_to_grid 1`
+- `sm_navbot_tool_bots_go_to` makes bots come to your location
+- `sm_navbot_debug_blind` bots can't see each other
