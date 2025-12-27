@@ -34,13 +34,13 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 - Press F11 to Generate Nav Mesh
 - Press Enter to save nav mesh
 - Fly arround map and look for walkable areas not covered with nav mesh if you find any
- - Aim at ground and press F9 to mark an area as walkable
- - Press F11 to generate the nav mesh
- - If these new areas are on top of already existing ones, use sm_nav_delete_overlapping_from_selected_set to remove them
- - Press Enter to save
- - Repeat process until all walkable areas have nav mesh
+  - Aim at ground and press F9 to mark an area as walkable
+  - Press F11 to generate the nav mesh
+  - If these new areas are on top of already existing ones, use sm_nav_delete_overlapping_from_selected_set to remove them
+  - Press Enter to save
+  - Repeat process until all walkable areas have nav mesh
 - Press Insert to show spawn points and make sure they have nav mesh
-- Add ladders
+- Add ladders (to be added)
 - Look for disconnected nav mesh and join them
 - Look for and remove nav mesh from non walkable areas (e.g tops of buildings, places you don't want the bots going)
 
