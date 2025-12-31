@@ -48,3 +48,4 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 - `sm_nav_snap_to_grid 1`
 - `sm_navbot_tool_bots_go_to` makes bots come to your location
 - `sm_navbot_debug_blind` bots can't see each other
+- `sm_nav_merge_ladders <bottom ladder ID> <top ladder ID>` merge/join ladders that are close to each other
