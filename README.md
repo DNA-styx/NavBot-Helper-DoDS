@@ -26,6 +26,7 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 
 
 # New map process
+- Copy .cfg file to \dod\cfg
 - Load map
 - Load keybinds by typing `exec navbot-helper-dods.cfg`
 - Press "Page Up" to enable god mode
