@@ -52,6 +52,8 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 
 # Fix Errors
 ## Degenerate Navigation Area
-Error Example: L 12/31/2025 - 22:28:56: [NavBot] Degenerate Navigation Area #1320 at setpos 1962.5 975 704.031
-``sm_nav_add_to_selected_set_by_id 1320``
+Error Example:<br>
+``L 12/31/2025 - 22:28:56: [NavBot] Degenerate Navigation Area #1320 at setpos 1962.5 975 704.031``<br>
+Fix with:<br>
+``sm_nav_add_to_selected_set_by_id 1320``<br>
 ``nav_delete_marked``
