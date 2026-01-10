@@ -48,9 +48,13 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 - `sm_nav_snap_to_grid 1`
 - `sm_navbot_tool_bots_go_to` makes bots come to your location
 - `sm_navbot_debug_blind` bots can't see each other
+<<<<<<< HEAD
 
 # Fix Errors
 ## Degenerate Navigation Area
 Error Example: L 12/31/2025 - 22:28:56: [NavBot] Degenerate Navigation Area #1320 at setpos 1962.5 975 704.031
 ``sm_nav_add_to_selected_set_by_id 1320``
 ``nav_delete_marked``
+=======
+- `sm_nav_merge_ladders <bottom ladder ID> <top ladder ID>` merge/join ladders that are close to each other
+>>>>>>> 779e5fbe253109aeb7c97ca82b70d9c2333356ac
