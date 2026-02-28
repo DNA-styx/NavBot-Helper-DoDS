@@ -45,7 +45,7 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 - Fly around map and look for walkable areas not covered with nav mesh if you find any
   - Press "F9" to enable Mark as Walkable. Left click to place marker
   - Press "F11" to generate the nav mesh
-  - If these new areas are on top of already existing ones, use sm_nav_delete_overlapping_from_selected_set to remove them
+  - If these new areas are on top of already existing ones, use `sm_nav_delete_overlapping_from_selected_set` to remove them
   - Press "Enter" to save
   - Repeat process until all walkable areas have nav mesh
 - Press "Insert" to show spawn points and make sure they have nav mesh
