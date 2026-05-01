@@ -45,7 +45,7 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 - Fly around map and look for walkable areas not covered with nav mesh if you find any
   - Press "F9" to enable Mark as Walkable. Left click to place marker
   - Press "F11" to generate the nav mesh
-  - If these new areas are on top of already existing ones, use sm_nav_delete_overlapping_from_selected_set to remove them
+  - If these new areas are on top of already existing ones, use `sm_nav_delete_overlapping_from_selected_set` to remove them
   - Press "Enter" to save
   - Repeat process until all walkable areas have nav mesh
 - Press "Insert" to show spawn points and make sure they have nav mesh
@@ -58,6 +58,7 @@ Config file of key binds to help with NavBot with Day of Defeat: Source https://
 - `sm_navbot_tool_bots_go_to` makes bots come to your location
 - `sm_navbot_debug_blind` bots can't see each other
 - `sm_nav_merge_ladders <bottom ladder ID> <top ladder ID>` merge/join ladders that are close to each other
+- `showtriggers_toggle` 
 
 # Fix Errors
 ## Degenerate Navigation Area
@@ -65,4 +66,4 @@ Error Example:<br>
 ``L 12/31/2025 - 22:28:56: [NavBot] Degenerate Navigation Area #1320 at setpos 1962.5 975 704.031``<br>
 Fix with:<br>
 ``sm_nav_add_to_selected_set_by_id 1320``<br>
-``nav_delete_marked``
+``sm_nav_delete_marked``
